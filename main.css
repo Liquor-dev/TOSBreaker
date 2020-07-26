@@ -1,0 +1,26 @@
+body {
+    font-family: arial;
+}
+
+li {
+    color: #444;
+
+}
+
+a {
+    color: white;
+}
+
+h4 {
+    background: #333;
+    color: #888;
+    padding: 10px 10px;
+}
+
+h1 {
+    color: #111;
+}
+
+h3 {
+    color: #111;
+}
